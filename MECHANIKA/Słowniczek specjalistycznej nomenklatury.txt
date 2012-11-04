@@ -1,0 +1,17 @@
+Moc rzutu – iloœæ koœci w rzucie na których wynik jest mniejszy lub równy S£ (Stopieñ £atwoœci), ilosæ tzw. koœci pomyœlnych  (dawniej sukcesów)
+X – pula koœci któr¹ przeznaczy³eœ na dany manewr
+Zaatakowanie – Zadaj obra¿enia zgodnie z tabel¹ broni.
+Poœwiêcenie – wyrzucenie koœci z puli
+Postawa – ustawienei i nastawienie w danym monencie walki, czêsto konkretna postawa jest wymagana przez konkretne ruchy; a czasem równie¿ - konkretne rozdzielenie puli koœci na Akcjê/Reakcjê/Specjalne.
+Akcja: agresywna strona walki, atak, ruch do przeciwnika. Osoba z najwiêksz¹ iloœci¹ koœci w Akcji rusza siê pierwsza.
+Reakcja: defensywna, pasywna strona walki, reakcja na atak przeciwnika, unik, blok, kontratak, ucieczka
+Specjalne: to co dzieje siê "pomiêdzy" turami, zaklêcia, grzebanie w plecaku, etc.
+Typ: Podrodzaj karty, np. Atak, Blok, Sztuczka, Ruch.
+Quote - Co musisz powiedzieæ, k³ad¹c kartê na stó³. Quote jest opisem dla pozosta³ych graczy, przyk³ad: K³ade typ Sztuczka karta Zwód, ale mówiê "Atakujê".
+
+
+
+Przydatne wnioski: 
+- Nie powinno siê w atakach zabraniaæ uników (np. "ten atak nie mo¿e byæ unikniêty") ale mo¿na je odrobinê utrudniaæ. Mo¿na zabraniaæ i utrudniaæ bloki
+
+
