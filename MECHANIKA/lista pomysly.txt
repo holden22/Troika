@@ -1,0 +1,51 @@
+atak broni¹
+blok/sparowanie broni¹
+blok tarcz¹
+unik
+odskok
+ruch
+powstanie (zmiana pozycji)
+kucniêcie (zmiana pozycji)
+padniêcie (zmiana pozycji)
+
+
+
+1. Unik z kontratakiem
+a) Pochwycenie
+b) Odskok z kontratakiem
+c) Zmniejszenie dystansu (przejœcie w pozycje)
+d) Cios po palcach
+e) Przejœcie za plecy
+f) Odskok z saltem
+2. Atak z wyskoku
+3. Atak z pó³obrotu
+4. Finta
+5. Zwód (minusy do obrony)
+6. Odbicie broni (minusy do inicjatywy)
+7. Rozbrojenie (utrata broni)
+8. Dobicie (dobija zdisableowanego przeciwnika na hi-ita)
+9. Pchniêcie (g³êboka rana)
+10. P³ytkie ciêcie (krwawienie)
+11. Cios pod pachê (wy³¹czenie rêki, b¹dŸ znaczne utrudnienia; krwawienie)
+12. Prowokacja (bonus do ataku dla obu stron)
+13. Powalenie
+14. Ciêcie po oczach/nad oczami (krew sp³ywa na oczy)
+15. Z buta wje¿d¿am
+16. Zamach
+17. Markowany cios
+18. Szar¿a
+19. Precyzyjny cios
+20. Wielokrotne pchniêcie
+21. Grad ciosów
+22. Og³uszenie
+23. Spin to win
+24. Wykurwienie w kosmos
+25. Cios tarcz¹
+26. Rzut m³otem
+27. Obronny kr¹g
+28. £amacz koœci
+29. Odskok
+30. Pad
+31. Ominiêcie
+32. Przykucniêcie
+
